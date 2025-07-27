@@ -50,7 +50,5 @@ Deployed contract address:
 `ST3XR9JJR0H42B2GPGW36YS302ZR67N0YJ6W90ME5.Newcrowdfunding`
 <img width="1860" height="847" alt="image" src="https://github.com/user-attachments/assets/4b39589f-952f-487f-ba66-e58b78a5a12e" />
 
-> *Note: Replace this with your real contract address if different.*
 
 
-Nếu bạn đã có giao diện hoặc muốn thêm hướng dẫn deploy/test contract bằng Clarinet hoặc frontend với Stacks.js, mình có thể viết tiếp phần đó cho bạn.
